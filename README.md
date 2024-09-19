@@ -1,7 +1,7 @@
-                                                                             # Qr_code_component
+# Qr_code_component
 
 
-                                                                       Tarefa 3 - Descodificadas Trilha 3 
+Tarefa 3 - Descodificadas Trilha 3 
  
 O projeto proposto é o QR code component 
 
